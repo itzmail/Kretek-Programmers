@@ -8,7 +8,7 @@ void main() {
   print(now);
 
   // Mengatur waktu
-  now = now.add(Duration(hours: 2, minutes: 30));
+  now = now.add(Duration(hours: 3, minutes: 30));
 
   // Menampilkan waktu yang telah diatur
   print(now);
